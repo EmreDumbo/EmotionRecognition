@@ -56,7 +56,7 @@ tqdm==4.64.1
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/emotion-recognition.git
+   git clone https://github.com/EmreDumbo/EmotionRecognition.git
    cd emotion-recognition
    ```
 
