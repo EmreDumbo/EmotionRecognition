@@ -1,0 +1,23 @@
+# Ignore raw images (assuming they are in 'data/raw_images' or similar directory)
+dataset/test
+dataset/train
+
+# Ignore common temporary files (e.g., from IDEs or OS-specific files)
+*.log
+*.bak
+*.swp
+*.tmp
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+.staj_env/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore other system files that may be generated
+.DS_Store
