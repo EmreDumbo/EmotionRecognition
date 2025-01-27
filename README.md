@@ -15,12 +15,13 @@ emotion-recognition/
 │   │
 │   ├── models/
 │   │   ├── __init__.py
-│   │   ├── model.py
-│   │   ├── train.py
-│   │   └── evaluate.py
+│   │   ├── resnet50 
 │   │
-│   ├── main.py
-│   └── config.py
+│   │── train.py
+│   │── evaluate.py
+│   │── model.py
+│   └── main.py
+│   
 │
 ├── dataset/
 │   ├── train_dataset.csv
