@@ -1,6 +1,7 @@
 # Ignore raw images (assuming they are in 'data/raw_images' or similar directory)
 dataset/test
 dataset/train
+src/models/resnet50/emotion_recognition_resnet50.pth
 # Ignore common temporary files (e.g., from IDEs or OS-specific files)
 *.log
 *.bak
